@@ -8,4 +8,4 @@ Monday: Dec. 7
 Thurdays: Jan. 21, Jan. 28, and Feb. 4
 
 ####React Native 
-Thurdays: Feb. 11
+Thurday: Feb. 11
