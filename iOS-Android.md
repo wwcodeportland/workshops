@@ -1,4 +1,4 @@
-iOS vs Android workshop
+iOS vs Android Development
 ========================
 
 ##Pre-Workshop Reading:
