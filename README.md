@@ -1,15 +1,12 @@
 Workshops
 =========================
 
-##2015
+###2015
 
-####[Rapid Prototyping] (http://www.meetup.com/Women-Who-Code-Portland/events/227283740/)
-Monday: Dec. 14
+Monday: Dec. 14 - ####[Rapid Prototyping] (http://www.meetup.com/Women-Who-Code-Portland/events/227283740/)
 
-##2016
+###2016
 
-####[iOS vs Android Development] (http://www.meetup.com/Women-Who-Code-Portland/events/227344119/)
-Thursdays: Jan. 21, Jan. 28, and Feb. 4
+Thursdays: Jan. 21, Jan. 28, and Feb. 4 - ####[iOS vs Android Development] (http://www.meetup.com/Women-Who-Code-Portland/events/227344119/)
 
-####[React Native] (http://www.meetup.com/Women-Who-Code-Portland/events/228366721/)
-Thursday: Feb. 11
+Thursday: Feb. 11 - ####[React Native] (http://www.meetup.com/Women-Who-Code-Portland/events/228366721/)
