@@ -5,7 +5,6 @@ Workshops
 
 ####[Rapid Prototyping] (http://www.meetup.com/Women-Who-Code-Portland/events/227283740/)
 Monday: Dec. 14
-Slides + GitHub Repo
 
 ###2016
 
