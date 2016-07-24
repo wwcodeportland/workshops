@@ -19,3 +19,12 @@ Android Instructor: Kat Mitchell [@katmitchell] (http://github.com/katmitchell)
 Thursday: Feb. 11  
 Instructor: Jason Brown [@browniefed] (http://github.com/browniefed)  
 [Slides] (http://slides.com/browniefed/react-native#/) + [GitHub Repo] (http://github.com/browniefed/forecast)
+
+####[Git, GitHub, and Contributing to Open Source] (http://www.meetup.com/Women-Who-Code-Portland/events/232406726/)
+Thursday: Jul. 19  
+Instructors: Tiffany [@tiffanyfj] (https://github.com/tiffanyfj) and Scott [@shanselman] (https://github.com/shanselman)
+[GitHub Repo] (https://github.com/wwcodeportland/git-github-os)
+
+###Intro to IoT
+Thursday, Oct. 20
+Instructor: TBA
