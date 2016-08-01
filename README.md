@@ -19,13 +19,13 @@ Workshops
 - **Instructor:** Jason [@browniefed](http://github.com/browniefed)  
 - Slides [here](http://slides.com/browniefed/react-native#/) + GitHub Repo [here](http://github.com/browniefed/forecast)
 
-<img height=100 src="graphics/react-native,jpg" title="Workshop: React Native">
+<img height=200 src="graphics/react-native.jpg" title="Workshop: React Native">
 
 #### Git, GitHub, and Contributing to Open Source - Thu, Jul. 19
 - **Instructors:** Tiffany [@tiffanyfj](https://github.com/tiffanyfj) and Scott [@shanselman](https://github.com/shanselman)
 - GitHub Repo [here](https://github.com/wwcodeportland/git-github-os)
 
-<img height=100 src="graphics/git-oss.jpg" title="Workshop: Git, GitHub, and Contributing to Open Source">
+<img height=200 src="graphics/git-oss.jpg" title="Workshop: Git, GitHub, and Contributing to Open Source">
 
 ### Intro to IoT - Thu, Oct. 20
 - Instructor: TBA
