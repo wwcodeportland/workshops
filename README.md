@@ -30,6 +30,14 @@
 
 <img height=200 src="graphics/git-oss.jpg" title="Workshop: Git, GitHub, and Contributing to Open Source">
 
+### DevOps Intro to Puppet
+- **Date:** Wed, Oct. 5
+- **Instructor:** Grace Andrews
+
+### Intro to Docker
+- **Date:** Fri, Oct. 21
+- **Instructor:** Mike Coleman
+
 ### Intro to IoT 
-- **Date:** Thu, Oct. 20
-- **Instructor:** TBA
+- **Date:** Fri, Dec. 2
+- **Instructor:** Grace Metri
