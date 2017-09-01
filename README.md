@@ -41,3 +41,40 @@
 ### Intro to IoT 
 - **Date:** Fri, Dec. 2
 - **Instructor:** Grace Metri
+
+## 2017
+
+### Agile Methodologies
+- **Date:** Feb. 6
+- **Instructor:** Sejal D’Souja
+
+### Intro to Command Line
+- **Date:** Mar. 28th and Aug. 3rd
+- **Instructor:** Richa Khandelwal
+
+### PDX Empower
+- **Date:** Six weeks program April - May
+- **Instructor:** Sejal D’Souja
+
+### Intro to Git/Github Part 1
+- **Date:** Apr. 25th
+- **Instructor:** Scott Hanselman and Grace Andrews
+
+### Application Security - Memory Layout
+- **Date:** May 7th
+- **Instructor:** David Wang
+
+### Intro to Git/Github Part 2
+- **Date:** May 17th
+- **Instructor:** Scott Hanselman and Grace Andrews
+
+### Intro to Contributing to Open Source
+- **Date:** Aug. 22
+- **Instructor:** Scott Hanselman and Keeley Hammond
+
+### Introduction to Prototyping in Framer w/ Framer PDX
+- **Date:** Aug. 30
+- **Instructor:** Caterina Paun
+
+
+
