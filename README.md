@@ -10,10 +10,17 @@
 ## 2016
 
 ### iOS vs Android Development 
-- **Dates:** Thu, Jan. 21, Jan. 28, and Feb. 4
-- **iOS Instructor:** Anne ([@annelindsley](http://github.com/annelindsley))
+- **Date:** Thu, Jan. 21
+- **Instructors:** Anne ([@annelindsley](http://github.com/annelindsley)), Kat ([@katmitchell](http://github.com/katmitchell)), Jason ([@browniefed](http://github.com/browniefed))  
+
+### iOS Development 
+- **Date:** Thu, Jan. 28
+- **Instructor:** Anne ([@annelindsley](http://github.com/annelindsley))
 - Slides [here](http://docs.google.com/presentation/d/1nQ6lpclnDxTyXvNgV46W1xboY-4l6col9Np0VpRByOU/edit#slide=id.p) + GitHub Repo [here](http://github.com/annelindsley/BasicWeatherAppIOS)  
-- **Android Instructor:** Kat ([@katmitchell](http://github.com/katmitchell))  
+
+### Android Development 
+- **Date:** Thu, Feb. 4
+- **Instructor:** Kat ([@katmitchell](http://github.com/katmitchell))  
 - Slides [here](http://docs.google.com/presentation/d/15zeffegzsIjA9g44wP9Kjlk0YHjdSf6VQvqV5u3rsCI/edit#slide=id.p) + GitHub Repo [here](http://github.com/katmitchell/ChickTechWeatherAppAndroid)
 
 ### React Native 
