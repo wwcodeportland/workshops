@@ -83,5 +83,41 @@
 - **Date:** Aug. 30
 - **Instructor:** Caterina Paun
 
+### The Squishy Side of Open Source
+- **Date:** Sep. 05
+- **Instructor:** Keeley Hammond and Scott Hanselman
 
+### Bitcoin, Blockchains and Cryptocurrency
+- **Date:** Oct. 30
+- **Instructor:** Jessica Grebenschikov
+
+
+## 2018
+
+### Introduction to IoT
+- **Date:** Mar. 05
+- **Instructor:** Andrew Chalkley
+- **Venue:** Alchemy Code Lab
+
+### Beyond Senior Engineer - Developing your Career as an Architect
+- **Date:** Apr. 21
+- **Instructor:** Amber Milavec
+- **TAs:** Ann Wallace, Marty Nelson
+- **Venue:** Alchemy Code Lab
+
+### Software Engineering Interview Preparation
+- **Date:** May 05
+- **Instructor:** Alia Ward & Meghane Hardin
+- **Venue:** Alchemy Code Lab
+
+### Navigating the Tech Industry - Landing Your Next Opportunity
+- **Date:** Jul. 14
+- **Speaker:** Jarvis Sam (Resume Best Practices)
+- **Venue:** Vacasa
+
+### Data Exploration with Python
+- **Date:** Aug. 18
+- **Instructor:** Melissa Lewis
+- **TAs:** Amy Boyle, Dipti Muni
+- **Venue:** Microsoft
 
